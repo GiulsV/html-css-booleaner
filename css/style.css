@@ -27,7 +27,7 @@ h5, h6{
 .foto{
     padding-top: 20px;
 }
-#didascalia{
+.didascalia{
     font-size: x-small;
     margin: 0px;
 }
@@ -42,7 +42,7 @@ th{
     background-color: lightskyblue;
 
 }
-#riga-colore{
+.riga-colore{
     background-color: lightblue;
 }
 /* Footer */
