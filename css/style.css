@@ -14,28 +14,29 @@ header {
     padding-top: 50px;
 }
 /* posizione titolo */
-h5, h6{
+h1, h5, h6{
     margin: 0px;
+}
+.textcolor{
+    color: lightskyblue;
 }
 /* Immagini articolo */
 .foto{
     padding-top: 20px;
 }
-/* Tabella 
-#tabella tr{
-       background-color: aqua;
-   }
-#tabella th{
-    background-color: blue;
-}*/
-
+/* Tabella */
 table {
     border-collapse: collapse;
     width: 100%;
     text-align: left;
+    table-layout: fixed;
   }
 th{
-    background-color: aqua;
+    background-color: lightskyblue;
+
+}
+#riga-colore{
+    background-color: lightblue;
 }
 /* Footer */
 footer{
