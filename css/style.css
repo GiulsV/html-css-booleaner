@@ -1,3 +1,6 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
 /* Header con pattern e logo */
 header {
     background-color: cornflowerblue;
@@ -9,4 +12,8 @@ header {
     height: 175px;
     position: relative;
     padding-top: 50px;
+}
+/* posizione titolo */
+h5, h6{
+    margin: 0px;
 }
