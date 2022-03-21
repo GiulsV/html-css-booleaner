@@ -17,12 +17,19 @@ header {
 h1, h5, h6{
     margin: 0px;
 }
+h5, h6{
+    color: gray;
+}
 .textcolor{
     color: lightskyblue;
 }
 /* Immagini articolo */
 .foto{
     padding-top: 20px;
+}
+#didascalia{
+    font-size: x-small;
+    margin: 0px;
 }
 /* Tabella */
 table {
