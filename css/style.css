@@ -17,3 +17,27 @@ header {
 h5, h6{
     margin: 0px;
 }
+/* Immagini articolo */
+.foto{
+    padding-top: 20px;
+}
+/* Tabella 
+#tabella tr{
+       background-color: aqua;
+   }
+#tabella th{
+    background-color: blue;
+}*/
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+  }
+th{
+    background-color: aqua;
+}
+/* Footer */
+footer{
+    color: grey;
+}
