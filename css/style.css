@@ -1,0 +1,12 @@
+/* Header con pattern e logo */
+header {
+    background-color: cornflowerblue;
+    background-image: url("../img/pattern.png");
+    height: 175px;
+}
+#logo{
+    width: 200px;
+    height: 175px;
+    position: relative;
+    padding-top: 50px;
+}
