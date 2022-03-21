@@ -1,0 +1,58 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Header con pattern e logo */
+header {
+    background-color: cornflowerblue;
+    background-image: url("../img/pattern.png");
+    height: 175px;
+}
+#logo{
+    width: 200px;
+    height: 175px;
+    position: relative;
+    padding-top: 50px;
+    margin-left: 10%;
+}
+/* posizione titolo */
+h1, h5, h6{
+    margin: 0px;
+}
+h5, h6{
+    color: gray;
+}
+.textcolor{
+    color: lightskyblue;
+}
+/* Immagini articolo */
+.foto{
+    padding-top: 20px;
+}
+.didascalia{
+    font-size: x-small;
+    margin: 0px;
+}
+/* Tabella */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    table-layout: fixed;
+  }
+th{
+    background-color: lightskyblue;
+
+}
+.riga-colore{
+    background-color: lightblue;
+}
+/* Footer */
+footer{
+    color: grey;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
